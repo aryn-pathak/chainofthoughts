@@ -1,4 +1,4 @@
-# Chain of Thoughts: step solving model structure
+# Hierarchical Task Distribution: step solving model structure
 **A model arrangement that can solve complex problems by using steps.**
 
 **Working**:
